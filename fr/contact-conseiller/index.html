@@ -102,6 +102,7 @@
               <li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique.html">Fonction publique et force militaire</a></li>
               <li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique/avantagesmilitaires.html">Services et avantages sociaux du personnel militaire</a></li>
               <li><a href="https://www.canada.ca/fr/ministere-defense-nationale/services/avantages-militaires/transition.html">Transition de carrière pour les militaires</a></li>
+              <li><a href="https://www.canada.ca/fr/ministere-defense-nationale/services/avantages-militaires/transition/comprendre-transition.html">Comprendre la transition</a></li>
             </ol>
           </div>
         </nav>
@@ -111,7 +112,7 @@
   </div>
 
   <main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" class="container">
-    <h1 property="name" id="wb-cont">Fixer un rendez-vous pour le counseling de transition du TMC avec un conseiller en transition</h1>
+    <h1 property="name" id="wb-cont">Fixer un rendez-vous pour recevoir des informations personnalisées sur la transition militaire à civil d'un conseiller en transition</h1>
     <p class="pagetag">
       Les conseillers en transition seront vos guides tout au long du processus de transition de la vie militaire à la vie civile. Ils vous aideront à faire ce qui suit :
     <ul>
@@ -131,7 +132,9 @@
                 <span class="field-name">Région</span>
               </label>
               <select aria-labelledby="searchByRegion" id="searchByRegion" name="searchByRegion" class="form-control" style="min-width:365px;">
-                <option value="9"><span>le Sud de l’Ontario</span></option>
+                <option value="0"><span>Tous</span></option>
+                <option name="searchByRegionOpt1" value="1"><span>le Sud de l’Ontario</span></option>
+                <option name="searchByRegionOpt2" value="2"><span>l’Est de l’Ontario</span></option>
               </select>
             </div>
             <div class="col-md-6 form-group">
@@ -139,7 +142,9 @@
                 <span class="field-name">Centre</span>
               </label>
               <select aria-labelledby="searchByUnit" id="searchByUnit" name="searchByUnit" class="form-control" style="min-width: 224px;">
-                <option value="4"><span>CT Borden</span></option>
+                <option value="0"><span>Tous</span></option>
+                <option name="searchByUnitOpt1" value="1"><span>Services de transition Borden</span></option>
+                <option name="searchByUnitOpt2" value="2"><span>Services de transition Petawawa</span></option>
               </select>
             </div>
             <div class="hidden-sm">
@@ -161,16 +166,20 @@
                   <label for="m-searchByRegion" id="lblm-searchByRegion" class="">
                     <span class="field-name">Région</span>
                   </label>
-                  <select aria-labelledby="m-searchByRegion" id="m-searchByRegion" name="m-searchByRegion" class="form-control">
-                    <option value="9"><span>le Sud de l’Ontario</span></option>
+                  <select aria-labelledby="m-searchByRegion" id="m-searchByRegion" name="searchByRegion" class="form-control">
+                    <option value="0"><span>Tous</span></option>
+                    <option name="searchByRegionOpt1" value="1"><span>le Sud de l’Ontario</span></option>
+                    <option name="searchByRegionOpt2" value="2"><span>l’Est de l’Ontario</span></option>
                   </select>
                 </div>
                 <div class="col-md-6 col-md-6 form-group">
                   <label for="m-searchByUnit" id="lblm-searchByUnit" class="">
                     <span class="field-name">Centre</span>
                   </label>
-                  <select aria-labelledby="m-searchByUnit" id="m-searchByUnit" name="m-searchByUnit" class="form-control">
-                    <option value="4"><span>CT Borden</span></option>
+                  <select aria-labelledby="m-searchByUnit" id="m-searchByUnit" name="searchByUnit" class="form-control">
+                    <option value="0"><span>Tous</span></option>
+                    <option name="searchByUnitOpt1" value="1"><span>Services de transition Borden</span></option>
+                    <option name="searchByUnitOpt2" value="2"><span>Services de transition Petawawa</span></option>
                   </select>
                 </div>
               </form>
@@ -186,22 +195,25 @@
         </div>
         <div class="row">
           <div id="dataset-filter_info" role="status" aria-live="polite" class="col-sm-9">
-            Sélection affichée 1 to 1 sur 1 centres.
+            Sélection affichée 1 to <span name="numCentresText">2</span> sur <span name="numCentresText">2</span> centres.
           </div>
         </div>
         <div class="wb-init row">
-          <div class="col-md-12">
-            <div class="well wb-init">
-              <div class="row mrgn-lft-sm">
-                <div class="col-sm-4"><span>CT Borden</span></div>
-                <div class="col-sm-4"><span>le Sud de l’Ontario</span></div>
-                <div class="col-sm-4">
-                  <span>
-                    <a href="https://outlook.office365.com/owa/calendar/ServicesdetransitionBorden@018gc.onmicrosoft.com/bookings/" target="_blank" class="btn btn-primary">
-                      Prendre un rendez-vous
-                    </a>
-                  </span>
-                </div>
+          <div class="col-md-12 mrgn-lft-md mrgn-rght-md">
+            <div id="divTC1" class="row well">
+              <div class="col-sm-4"><span >Services de transition Borden</span></div>
+              <div class="col-sm-4"><span >le Sud de l’Ontario</span></div>
+              <div class="col-sm-4">
+                <span>
+                  <a href="https://outlook.office365.com/owa/calendar/ServicesdetransitionBorden@018gc.onmicrosoft.com/bookings/" target="_blank" class="btn btn-primary">Prendre un rendez-vous</a>
+                </span>
+              </div>
+            </div>
+            <div id="divTC2" class="row well">
+              <div class="col-sm-4"><span >Services de transition Petawawa</span></div>
+              <div class="col-sm-4"><span >l’Est de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:6136875511,3504">613-687-5511 poste. 3504</a></span>
               </div>
             </div>
           </div>
@@ -221,7 +233,7 @@
     <div class="pagedetails" style="padding-top: 0px;">
       <dl id="wb-dtmd">
         <dt>Date de modification :</dt>
-        <dd><time property="dateModified">2021-11-17</time></dd>
+        <dd><time property="dateModified">2022-01-20</time></dd>
       </dl>
     </div>
 
@@ -270,6 +282,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
   <script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js" crossorigin="anonymous"></script>
   <script src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/js/theme.min.js" crossorigin="anonymous"></script>
+  <script src="../../js/pages/contact-advisor.js"></script>
 </body>
 
 </html>
