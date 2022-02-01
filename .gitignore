@@ -21,6 +21,7 @@ nbproject/
 .project/
 .settings/
 .vscode/
+.vs/
 *.sublime-project
 *.sublime-workspace
 *.suo
