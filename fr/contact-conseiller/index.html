@@ -135,19 +135,56 @@
                 <span class="field-name">Région</span>
               </label>
               <select aria-labelledby="searchByRegion" id="searchByRegion" name="searchByRegion" class="form-control" style="min-width:365px;">
-                <option value="0"><span>Tous</span></option>
-                <option name="searchByRegionOpt1" value="1"><span>le Sud de l’Ontario</span></option>
-                <option name="searchByRegionOpt2" value="2"><span>l’Est de l’Ontario</span></option>
+                <option value="0"><span>Sélectionnez une région</span></option>
+                <option id="searchByRegionOpt1" value="1"><span>la Région de la capitale nationale</span></option>
+                <option id="searchByRegionOpt2" value="2"><span>Alberta et Nord du Canada</span></option>
+                <option id="searchByRegionOpt3" value="3"><span>l’Est de l’Ontario</span></option>
+                <option id="searchByRegionOpt4" value="4"><span>le Nouveau-Brunswick et l’Île-du-Prince-Édouard</span></option>
+                <option id="searchByRegionOpt5" value="5"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></option>
+                <option id="searchByRegionOpt6" value="6"><span>le Pacifique</span></option>
+                <option id="searchByRegionOpt7" value="7"><span>les Prairies</span></option>
+                <option id="searchByRegionOpt8" value="8"><span>Québec</span></option>
+                <option id="searchByRegionOpt9" value="9"><span>le Sud de l’Ontario</span></option>
               </select>
             </div>
-            <div class="col-md-6 form-group">
+            <div class="col-md-6 form-group" name="hide-if-region-not-selected" style="display: none;">
               <label for="searchByUnit" id="lblsearchByUnit" class="">
                 <span class="field-name">Centre</span>
               </label>
               <select aria-labelledby="searchByUnit" id="searchByUnit" name="searchByUnit" class="form-control" style="min-width: 224px;">
                 <option value="0"><span>Tous</span></option>
-                <option name="searchByUnitOpt1" value="1"><span>Services de transition Borden</span></option>
-                <option name="searchByUnitOpt2" value="2"><span>Services de transition Petawawa</span></option>
+                <option name="centreRegion1" value="1"><span>Services de transition Ottawa</span></option>
+                <option name="centreRegion2" value="2"><span>Services de transition Cold Lake</span></option>
+                <option name="centreRegion2" value="3"><span>Services de transition Calgary</span></option>
+                <option name="centreRegion2" value="4"><span>Services de transition Edmonton</span></option>
+                <option name="centreRegion2" value="5"><span>Services de transition Wainwright</span></option>
+                <option name="centreRegion3" value="6"><span>Services de transition Kingston</span></option>
+                <option name="centreRegion3" value="7"><span>Services de transition Petawawa</span></option>
+                <option name="centreRegion3" value="8"><span>Services de transition North Bay</span></option>
+                <option name="centreRegion3" value="9"><span>Services de transition Trenton</span></option>
+                <option name="centreRegion4" value="10"><span>Services de transition Gagetown</span></option>
+                <option name="centreRegion4" value="11"><span>Services de transition Charlottetown</span></option>
+                <option name="centreRegion5" value="12"><span>Services de transition Halifax</span></option>
+                <option name="centreRegion5" value="13"><span>Services de transition Greenwood</span></option>
+                <option name="centreRegion5" value="14"><span>Services de transition Sydney</span></option>
+                <option name="centreRegion5" value="15"><span>Services de transition St. John's</span></option>
+                <option name="centreRegion5" value="16"><span>Services de transition Gander</span></option>
+                <option name="centreRegion6" value="17"><span>Services de transition Comox</span></option>
+                <option name="centreRegion6" value="18"><span>Services de transition Chilliwack</span></option>
+                <option name="centreRegion6" value="19"><span>Services de transition Esquimalt</span></option>
+                <option name="centreRegion6" value="20"><span>Services de transition Vancouver</span></option>
+                <option name="centreRegion7" value="21"><span>Services de transition Shilo</span></option>
+                <option name="centreRegion7" value="22"><span>Services de transition Winnipeg</span></option>
+                <option name="centreRegion7" value="23"><span>Services de transition Moose Jaw</span></option>
+                <option name="centreRegion8" value="24"><span>Services de transition Bagotville</span></option>
+                <option name="centreRegion8" value="25"><span>Services de transition Saint-Jean-sur-Richelieu</span></option>
+                <option name="centreRegion8" value="26"><span>Services de transition Valcartier</span></option>
+                <option name="centreRegion8" value="27"><span>Services de transition Montréal</span></option>
+                <option name="centreRegion9" value="28"><span>Services de transition Borden</span></option>
+                <option name="centreRegion9" value="29"><span>Services de transition London</span></option>
+                <option name="centreRegion9" value="30"><span>Services de transition Meaford</span></option>
+                <option name="centreRegion4" value="31"><span>Services de transition Moncton</span></option>
+                <option name="centreRegion9" value="32"><span>Services de transition Toronto</span></option>
               </select>
             </div>
             <div class="hidden-sm">
@@ -159,7 +196,7 @@
       </div>
       <div class="mrgn-tp-md hidden-lg hidden-md hidden-sm">
         <div class="accordion">
-          <details class="">
+          <details class="" open>
             <summary aria-controls="wb-auto-14" class="wb-init off">
               <h4 class="h4">Trouver les conseillers</h4>
             </summary>
@@ -170,19 +207,56 @@
                     <span class="field-name">Région</span>
                   </label>
                   <select aria-labelledby="m-searchByRegion" id="m-searchByRegion" name="searchByRegion" class="form-control">
-                    <option value="0"><span>Tous</span></option>
-                    <option name="searchByRegionOpt1" value="1"><span>le Sud de l’Ontario</span></option>
-                    <option name="searchByRegionOpt2" value="2"><span>l’Est de l’Ontario</span></option>
+                    <option value="0"><span>Sélectionnez une région</span></option>
+                    <option id="searchByRegionOpt1" value="1"><span>la Région de la capitale nationale</span></option>
+                    <option id="searchByRegionOpt2" value="2"><span>Alberta et Nord du Canada</span></option>
+                    <option id="searchByRegionOpt3" value="3"><span>l’Est de l’Ontario</span></option>
+                    <option id="searchByRegionOpt4" value="4"><span>le Nouveau-Brunswick et l’Île-du-Prince-Édouard</span></option>
+                    <option id="searchByRegionOpt5" value="5"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></option>
+                    <option id="searchByRegionOpt6" value="6"><span>le Pacifique</span></option>
+                    <option id="searchByRegionOpt7" value="7"><span>les Prairies</span></option>
+                    <option id="searchByRegionOpt8" value="8"><span>Québec</span></option>
+                    <option id="searchByRegionOpt9" value="9"><span>le Sud de l’Ontario</span></option>
                   </select>
                 </div>
-                <div class="col-md-6 col-md-6 form-group">
+                <div class="col-md-6 col-md-6 form-group" name="hide-if-region-not-selected" style="display: none;">
                   <label for="m-searchByUnit" id="lblm-searchByUnit" class="">
                     <span class="field-name">Centre</span>
                   </label>
                   <select aria-labelledby="m-searchByUnit" id="m-searchByUnit" name="searchByUnit" class="form-control">
                     <option value="0"><span>Tous</span></option>
-                    <option name="searchByUnitOpt1" value="1"><span>Services de transition Borden</span></option>
-                    <option name="searchByUnitOpt2" value="2"><span>Services de transition Petawawa</span></option>
+                    <option name="centreRegion1" value="1"><span>Services de transition Ottawa</span></option>
+                    <option name="centreRegion2" value="2"><span>Services de transition Cold Lake</span></option>
+                    <option name="centreRegion2" value="3"><span>Services de transition Calgary</span></option>
+                    <option name="centreRegion2" value="4"><span>Services de transition Edmonton</span></option>
+                    <option name="centreRegion2" value="5"><span>Services de transition Wainwright</span></option>
+                    <option name="centreRegion3" value="6"><span>Services de transition Kingston</span></option>
+                    <option name="centreRegion3" value="7"><span>Services de transition Petawawa</span></option>
+                    <option name="centreRegion3" value="8"><span>Services de transition North Bay</span></option>
+                    <option name="centreRegion3" value="9"><span>Services de transition Trenton</span></option>
+                    <option name="centreRegion4" value="10"><span>Services de transition Gagetown</span></option>
+                    <option name="centreRegion4" value="11"><span>Services de transition Charlottetown</span></option>
+                    <option name="centreRegion5" value="12"><span>Services de transition Halifax</span></option>
+                    <option name="centreRegion5" value="13"><span>Services de transition Greenwood</span></option>
+                    <option name="centreRegion5" value="14"><span>Services de transition Sydney</span></option>
+                    <option name="centreRegion5" value="15"><span>Services de transition St. John's</span></option>
+                    <option name="centreRegion5" value="16"><span>Services de transition Gander</span></option>
+                    <option name="centreRegion6" value="17"><span>Services de transition Comox</span></option>
+                    <option name="centreRegion6" value="18"><span>Services de transition Chilliwack</span></option>
+                    <option name="centreRegion6" value="19"><span>Services de transition Esquimalt</span></option>
+                    <option name="centreRegion6" value="20"><span>Services de transition Vancouver</span></option>
+                    <option name="centreRegion7" value="21"><span>Services de transition Shilo</span></option>
+                    <option name="centreRegion7" value="22"><span>Services de transition Winnipeg</span></option>
+                    <option name="centreRegion7" value="23"><span>Services de transition Moose Jaw</span></option>
+                    <option name="centreRegion8" value="24"><span>Services de transition Bagotville</span></option>
+                    <option name="centreRegion8" value="25"><span>Services de transition Saint-Jean-sur-Richelieu</span></option>
+                    <option name="centreRegion8" value="26"><span>Services de transition Valcartier</span></option>
+                    <option name="centreRegion8" value="27"><span>Services de transition Montréal</span></option>
+                    <option name="centreRegion9" value="28"><span>Services de transition Borden</span></option>
+                    <option name="centreRegion9" value="29"><span>Services de transition London</span></option>
+                    <option name="centreRegion9" value="30"><span>Services de transition Meaford</span></option>
+                    <option name="centreRegion4" value="31"><span>Services de transition Moncton</span></option>
+                    <option name="centreRegion9" value="32"><span>Services de transition Toronto</span></option>
                   </select>
                 </div>
               </form>
@@ -192,42 +266,241 @@
       </div>
     </div>
 
-    <div class="section mrgn-bttm-0">
+    <div class="section mrgn-bttm-0" name="hide-if-region-not-selected" style="display: none;">
       <div class="top">
         <div class="row">
-        </div>
-        <div class="row">
           <div id="dataset-filter_info" role="status" aria-live="polite" class="col-sm-9">
-            Sélection affichée 1 to <span name="numCentresText">2</span> sur <span name="numCentresText">2</span> centres.
+            Sélection affichée 1 to <span name="numCentresText">32</span> sur <span name="numCentresText">32</span> centres.
           </div>
         </div>
         <div class="wb-init row">
           <div class="col-md-12 mrgn-lft-md mrgn-rght-md">
-            <div id="divTC1" class="row well">
-              <div class="col-sm-4"><span >Services de transition Borden</span></div>
-              <div class="col-sm-4"><span >le Sud de l’Ontario</span></div>
+            <div id="divTC1" name="centreRegion1" class="row well">
+              <div class="col-sm-4"><span>Services de transition Ottawa</span></div>
+              <div class="col-sm-4"><span>la Région de la capitale nationale</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:3434515124">343-451-5124</a></span>
+              </div>
+            </div>
+            <div id="divTC2" name="centreRegion2" class="row well">
+              <div class="col-sm-4"><span>Services de transition Cold Lake</span></div>
+              <div class="col-sm-4"><span>Alberta et Nord du Canada</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:7808408000,3024">780-840-8000 poste. 3024</a></span>
+              </div>
+            </div>
+            <div id="divTC3" name="centreRegion2" class="row well">
+              <div class="col-sm-4"><span>Services de transition Calgary</span></div>
+              <div class="col-sm-4"><span>Alberta et Nord du Canada</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:4034102351,2723">403-410-2351 poste. 2723</a></span>
+              </div>
+            </div>
+            <div id="divTC4" name="centreRegion2" class="row well">
+              <div class="col-sm-4"><span>Services de transition Edmonton</span></div>
+              <div class="col-sm-4"><span>Alberta et Nord du Canada</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:7809734011,6670">780-973-4011 poste. 6670</a></span>
+              </div>
+            </div>
+            <div id="divTC5" name="centreRegion2" class="row well">
+              <div class="col-sm-4"><span>Services de transition Wainwright</span></div>
+              <div class="col-sm-4"><span>Alberta et Nord du Canada</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:7808421363,1096">780-842-1363 poste. 1096</a></span>
+              </div>
+            </div>
+            <div id="divTC6" name="centreRegion3" class="row well">
+              <div class="col-sm-4"><span>Services de transition Kingston</span></div>
+              <div class="col-sm-4"><span>l’Est de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:6135415010,5668">613-541-5010 poste. 5668</a></span>
+              </div>
+            </div>
+            <div id="divTC7" name="centreRegion3" class="row well">
+              <div class="col-sm-4"><span>Services de transition Petawawa</span></div>
+              <div class="col-sm-4"><span>l’Est de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:6136875511,3504">613-687-5511 poste. 3504</a></span>
+              </div>
+            </div>
+            <div id="divTC8" name="centreRegion3" class="row well">
+              <div class="col-sm-4"><span>Services de transition North Bay</span></div>
+              <div class="col-sm-4"><span>l’Est de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:7054942011,2589">705-494-2011 poste. 2589</a></span>
+              </div>
+            </div>
+            <div id="divTC9" name="centreRegion3" class="row well">
+              <div class="col-sm-4"><span>Services de transition Trenton</span></div>
+              <div class="col-sm-4"><span>l’Est de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:6133922811,7454">613-392-2811 poste. 7454</a></span>
+              </div>
+            </div>
+            <div id="divTC10" name="centreRegion4" class="row well">
+              <div class="col-sm-4"><span>Services de transition Gagetown</span></div>
+              <div class="col-sm-4"><span>le Nouveau-Brunswick et l’Île-du-Prince-Édouard</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:5064222000,3557">506-422-2000 poste. 3557</a></span>
+              </div>
+            </div>
+            <div id="divTC11" name="centreRegion4" class="row well">
+              <div class="col-sm-4"><span>Services de transition Charlottetown</span></div>
+              <div class="col-sm-4"><span>le Nouveau-Brunswick et l’Île-du-Prince-Édouard</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:9023704723">902-370-4723</a></span>
+              </div>
+            </div>
+            <div id="divTC12" name="centreRegion5" class="row well">
+              <div class="col-sm-4"><span>Services de transition Halifax</span></div>
+              <div class="col-sm-4"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:9027221908">902-722-1908</a></span>
+              </div>
+            </div>
+            <div id="divTC13" name="centreRegion5" class="row well">
+              <div class="col-sm-4"><span>Services de transition Greenwood</span></div>
+              <div class="col-sm-4"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:9027651494,5701">902-765-1494 poste. 5701</a></span>
+              </div>
+            </div>
+            <div id="divTC14" name="centreRegion5" class="row well">
+              <div class="col-sm-4"><span>Services de transition Sydney</span></div>
+              <div class="col-sm-4"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:9025637100,7138">902-563-7100 poste. 7138</a></span>
+              </div>
+            </div>
+            <div id="divTC15" name="centreRegion5" class="row well">
+              <div class="col-sm-4"><span>Services de transition St. John's</span></div>
+              <div class="col-sm-4"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:7097333839">709-733-3839</a></span>
+              </div>
+            </div>
+            <div id="divTC16" name="centreRegion5" class="row well">
+              <div class="col-sm-4"><span>Services de transition Gander</span></div>
+              <div class="col-sm-4"><span>la Nouvelle-Écosse et Terre-Neuve-et-Labrador</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:7092561703,1164">709-256-1703 poste. 1164</a></span>
+              </div>
+            </div>
+            <div id="divTC17" name="centreRegion6" class="row well">
+              <div class="col-sm-4"><span>Services de transition Comox</span></div>
+              <div class="col-sm-4"><span>le Pacifique</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:2503398211,7300">250-339-8211 poste. 7300</a></span>
+              </div>
+            </div>
+            <div id="divTC18" name="centreRegion6" class="row well">
+              <div class="col-sm-4"><span>Services de transition Chilliwack</span></div>
+              <div class="col-sm-4"><span>le Pacifique</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:6048581011,6106">604-858-1011 poste. 6106</a></span>
+              </div>
+            </div>
+            <div id="divTC19" name="centreRegion6" class="row well">
+              <div class="col-sm-4"><span>Services de transition Esquimalt</span></div>
+              <div class="col-sm-4"><span>le Pacifique</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:2503634477">250-363-4477</a></span>
+              </div>
+            </div>
+            <div id="divTC20" name="centreRegion6" class="row well">
+              <div class="col-sm-4"><span>Services de transition Vancouver</span></div>
+              <div class="col-sm-4"><span>le Pacifique</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:6042252520,2670">604-225-2520 poste. 2670</a></span>
+              </div>
+            </div>
+            <div id="divTC21" name="centreRegion7" class="row well">
+              <div class="col-sm-4"><span>Services de transition Shilo</span></div>
+              <div class="col-sm-4"><span>les Prairies</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:2047653000,3714">204-765-3000 poste. 3714</a></span>
+              </div>
+            </div>
+            <div id="divTC22" name="centreRegion7" class="row well">
+              <div class="col-sm-4"><span>Services de transition Winnipeg</span></div>
+              <div class="col-sm-4"><span>les Prairies</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:2048332500,4658">204-833-2500 poste. 4658</a></span>
+              </div>
+            </div>
+            <div id="divTC23" name="centreRegion7" class="row well">
+              <div class="col-sm-4"><span>Services de transition Moose Jaw</span></div>
+              <div class="col-sm-4"><span>les Prairies</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:3066942222,5544">306-694-2222 poste. 5544</a></span>
+              </div>
+            </div>
+            <div id="divTC24" name="centreRegion8" class="row well">
+              <div class="col-sm-4"><span>Services de transition Bagotville</span></div>
+              <div class="col-sm-4"><span>Québec</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:8776028282,3">877-602-8282 poste. 3</a></span>
+              </div>
+            </div>
+            <div id="divTC25" name="centreRegion8" class="row well">
+              <div class="col-sm-4"><span>Services de transition Saint-Jean-sur-Richelieu</span></div>
+              <div class="col-sm-4"><span>Québec</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:8776028282,2">877-602-8282 poste. 2</a></span>
+              </div>
+            </div>
+            <div id="divTC26" name="centreRegion8" class="row well">
+              <div class="col-sm-4"><span>Services de transition Valcartier</span></div>
+              <div class="col-sm-4"><span>Québec</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:8776028282,1">877-602-8282 poste. 1</a></span>
+              </div>
+            </div>
+            <div id="divTC27" name="centreRegion8" class="row well">
+              <div class="col-sm-4"><span>Services de transition Montréal</span></div>
+              <div class="col-sm-4"><span>Québec</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:8776028282,2">877-602-8282 poste. 2</a></span>
+              </div>
+            </div>
+            <div id="divTC28" name="centreRegion9" class="row well">
+              <div class="col-sm-4"><span>Services de transition Borden</span></div>
+              <div class="col-sm-4"><span>le Sud de l’Ontario</span></div>
               <div class="col-sm-4">
                 <span>
                   <a href="./notification/?centre=ct-borden" target="_blank" class="btn btn-primary">Prendre un rendez-vous</a>
                 </span>
               </div>
             </div>
-            <div id="divTC2" class="row well">
-              <div class="col-sm-4"><span >Services de transition Petawawa</span></div>
-              <div class="col-sm-4"><span >l’Est de l’Ontario</span></div>
+            <div id="divTC29" name="centreRegion9" class="row well">
+              <div class="col-sm-4"><span>Services de transition London</span></div>
+              <div class="col-sm-4"><span>le Sud de l’Ontario</span></div>
               <div class="col-sm-4" style="padding-bottom: 12px;">
-                <span>Appelez-nous au <a href="tel:6136875511,3504">613-687-5511 poste. 3504</a></span>
+                <span>Appelez-nous au <a href="tel:5196605275,5332">519-660-5275 poste. 5332</a></span>
               </div>
             </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="bottom wb-init col-xs-12">
-            <ul class="pagination wb-init">
-              <li class="page-item page-number active">
-                <a class="page-link">1</a>
-              </li>
-            </ul>
+            <div id="divTC30" name="centreRegion9" class="row well">
+              <div class="col-sm-4"><span>Services de transition Meaford</span></div>
+              <div class="col-sm-4"><span>le Sud de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:5195381371,6839">519-538-1371 poste. 6839</a></span>
+              </div>
+            </div>
+            <div id="divTC31" name="centreRegion4" class="row well">
+              <div class="col-sm-4"><span>Services de transition Moncton</span></div>
+              <div class="col-sm-4"><span>le Nouveau-Brunswick et l’Île-du-Prince-Édouard</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:5068605500,5607">506-860-5500 poste. 5607</a></span>
+              </div>
+            </div>
+            <div id="divTC32" name="centreRegion9" class="row well">
+              <div class="col-sm-4"><span>Services de transition Toronto</span></div>
+              <div class="col-sm-4"><span>le Sud de l’Ontario</span></div>
+              <div class="col-sm-4" style="padding-bottom: 12px;">
+                <span>Appelez-nous au <a href="tel:4166336200,2674">416-633-6200 poste. 2674</a></span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -236,7 +509,7 @@
     <div class="pagedetails" style="padding-top: 0px;">
       <dl id="wb-dtmd">
         <dt>Date de modification :</dt>
-        <dd><time property="dateModified">2022-01-20</time></dd>
+        <dd><time property="dateModified">2022-03-11</time></dd>
       </dl>
     </div>
 
