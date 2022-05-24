@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow, noarchive">
+    <noscript>
+      <meta http-equiv="Refresh" content="0; url='./index.html'" />
+    </noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N3TD2LN');</script>
+    <script type="text/javascript">
+      var xhr= new XMLHttpRequest();
+      xhr.open('GET', "https://military-transition.canada.ca/api/v1/regions", true);
+      xhr.setRequestHeader("apiKey", "efe624de-f876-481a-9d15-6d075b5484000");
+      xhr.onload = function() {
+        if(xhr.status === 200) {
+          window.location.href = "https://military-transition.canada.ca/en/"
+        } else {
+          window.location.href = "./index.html"
+        }
+      }
+      xhr.onerror = function () {
+        window.location.href = "./index.html"
+      };
+      xhr.send();
+    </script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      // Hide the content of the body if JavaScript is working as expected.
+      document.getElementsByTagName("body")[0].style.display = "none";
+    </script>
+    <p><a href="./index.html">Please click here to continue.</a></p>
+  </body>
+</html>
