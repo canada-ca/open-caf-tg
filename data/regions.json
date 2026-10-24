@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "message": "regions",
+  "data": [
+    {
+      "id": 9,
+      "nameEn": "Southern Ontario",
+      "nameFr": "le Sud de l\u2019Ontario",
+      "provinces": [
+        "ON"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Quebec Region",
+      "nameFr": "Qu\u00e9bec",
+      "provinces": [
+        "QC"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Prairie Region",
+      "nameFr": "les Prairies",
+      "provinces": [
+        "MB",
+        "SK"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Pacific Region",
+      "nameFr": "le Pacifique",
+      "provinces": [
+        "YT",
+        "BC"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Nova Scotia and Newfoundland and Labrador",
+      "nameFr": "la Nouvelle-\u00c9cosse et Terre-Neuve-et-Labrador",
+      "provinces": [
+        "NS",
+        "NL"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "New Brunswick and Prince Edward Island",
+      "nameFr": "le Nouveau-Brunswick et l\u2019\u00cele-du-Prince-\u00c9douard",
+      "provinces": [
+        "NB",
+        "PE"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Eastern Ontario",
+      "nameFr": "l\u2019Est de l\u2019Ontario",
+      "provinces": [
+        "ON"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Alberta and Northern Canada",
+      "nameFr": "Alberta et Nord du Canada",
+      "provinces": [
+        "AB",
+        "NT",
+        "NU"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "National Capital Region",
+      "nameFr": "la R\u00e9gion de la capitale nationale",
+      "provinces": [
+        "ON"
+      ]
+    }
+  ]
+}

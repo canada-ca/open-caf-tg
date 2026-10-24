@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "message": "servicesAudience",
+    "data": [
+        {
+            "id": 1,
+            "nameEn": "Indigenous Peoples",
+            "nameFr": "Peuples autochtones"
+        },
+        {
+            "id": 2,
+            "nameEn": "Women",
+            "nameFr": "Femmes"
+        },
+        {
+            "id": 3,
+            "nameEn": "2SLGBTQI+",
+            "nameFr": "2ELGBTQI+"
+        },
+        {
+            "id": 4,
+            "nameEn": "Visible Minorities",
+            "nameFr": "Minorit\u00e9s visibles"
+        },
+        {
+            "id": 5,
+            "nameEn": "Persons with Disabilities",
+            "nameFr": "Personnes handicap\u00e9es"
+        },
+        {
+            "id": 6,
+            "nameEn": "Others",
+            "nameFr": "Autres"
+        }
+    ]
+}

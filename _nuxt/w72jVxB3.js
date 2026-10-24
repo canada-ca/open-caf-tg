@@ -1,0 +1,1 @@
+function e(){const t={latitude:45.2498141,longitude:-76.0804311};return navigator&&"geolocation"in navigator&&navigator.geolocation.getCurrentPosition(o=>{t.latitude=o.coords.latitude,t.longitude=o.coords.longitude},o=>{console.error("Geolocation error: "+o.message)}),t}export{e as g};

@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "message": "servicesAudience",
+    "data": [
+        {
+            "id": 1,
+            "nameEn": "Families",
+            "nameFr": "Familles"
+        },
+        {
+            "id": 2,
+            "nameEn": "Regular Force",
+            "nameFr": "Force r\u00e9guli\u00e8re"
+        },
+        {
+            "id": 3,
+            "nameEn": "Veteran",
+            "nameFr": "Ancien combattant"
+        },
+        {
+            "id": 4,
+            "nameEn": "Transitioning Members",
+            "nameFr": "Les membres en transition"
+        },
+        {
+            "id": 5,
+            "nameEn": "Spouses and partners",
+            "nameFr": "Conjoint(e)s et partenaires"
+        },
+        {
+            "id": 6,
+            "nameEn": "Primary Reserve",
+            "nameFr": "Premi\u00e8re r\u00e9serve"
+        }
+    ]
+}

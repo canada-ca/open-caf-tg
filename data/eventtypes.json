@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "message": "eventTypesList",
+  "data": [
+    {
+      "id": 1,
+      "nameEn": "My Transition Seminar (MTS)",
+      "nameFr": "Mon s\u00e9minaire de transition (MST)"
+    },
+    {
+      "id": 2,
+      "nameEn": "Employment (fairs, webinars and related events)",
+      "nameFr": "Emplois (salons de l\u2019emploi, webinaires et autre)"
+    },
+    {
+      "id": 3,
+      "nameEn": "Education Fairs (learn about schooling programs from university, colleges, trades schools, etc.).",
+      "nameFr": "activit\u00e9s li\u00e9es \u00e0 l\u2019\u00e9ducation (salons de l\u2019\u00e9ducation, webinaires et autre)"
+    },
+    {
+      "id": 4,
+      "nameEn": "Training (non-profit, corporate or government training and retraining opportunities)",
+      "nameFr": "Formation (occasions de formation ou de recyclage professionnel offertes par des organismes \u00e0 but non lucratif, des entreprises ou le gouvernement)"
+    },
+    {
+      "id": 5,
+      "nameEn": "Information events (related to military and veteran employment or transition)",
+      "nameFr": "Information (sur l\u2019emploi ou la transition des militaires et des v\u00e9t\u00e9rans)"
+    },
+    {
+      "id": 6,
+      "nameEn": "Career Transition Workshops",
+      "nameFr": "Ateliers de r\u00e9orientation professionnelle"
+    },
+    {
+      "id": 7,
+      "nameEn": "My Transition Expos",
+      "nameFr": "Salon ma transition"
+    }
+  ]
+}

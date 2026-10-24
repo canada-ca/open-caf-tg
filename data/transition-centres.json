@@ -1,0 +1,865 @@
+{
+    "status": "success",
+    "message": "units",
+    "data": [
+        {
+            "id": 1,
+            "nameEn": "Transition Services Cold Lake",
+            "nameFr": "Services de transition Cold Lake",
+            "region": {
+                "id": 2,
+                "nameEn": "Alberta and Northern Canada",
+                "nameFr": "Alberta et Nord du Canada",
+                "provinces": [
+                    "AB",
+                    "NT",
+                    "NU"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office365.com\/owa\/calendar\/TransitionServicesEdmonton@ecn.forces.gc.ca\/bookings\/s\/oRfhevao5ECPtTq7HKFzvg2",
+            "bookingFr": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionEdmonton@018gc.onmicrosoft.com\/bookings\/s\/LOrfdRetiEaqBQ2k-Oa8zQ2",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 1,
+                "addressLineEn": "Kingsway Road",
+                "addressLineFr": "Route Kingsway",
+                "addressLine2En": "Centennial building (Bldg 69)",
+                "addressLine2Fr": "B\u00e2timent Centennial (\u00e9difice 69)",
+                "latitude": "54.41571",
+                "longitude": "-110.26804",
+                "cityEn": "Cold Lake",
+                "cityFr": "Cold Lake",
+                "province": "AB",
+                "postalCode": "T9M 2C6"
+            }
+        },
+        {
+            "id": 2,
+            "nameEn": "Transition Services Bagotville",
+            "nameFr": "Services de transition Bagotville",
+            "region": {
+                "id": 8,
+                "nameEn": "Quebec Region",
+                "nameFr": "Qu\u00e9bec",
+                "provinces": [
+                    "QC"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 2,
+                "addressLineEn": "Building 390 Cornerbrook Rd",
+                "addressLineFr": "chemin Cornerbrook b\u00e2timent 390",
+                "addressLine2En": "room 225",
+                "addressLine2Fr": "salle 225y",
+                "latitude": "48.3370",
+                "longitude": "-70.9996",
+                "cityEn": "Bagotville",
+                "cityFr": "Bagotville",
+                "province": "QC",
+                "postalCode": "G0V 1A0"
+            }
+        },
+        {
+            "id": 3,
+            "nameEn": "Transition Services Comox",
+            "nameFr": "Services de transition Comox",
+            "region": {
+                "id": 6,
+                "nameEn": "Pacific Region",
+                "nameFr": "le Pacifique",
+                "provinces": [
+                    "YT",
+                    "BC"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office.com\/book\/TransitionAdvisors@018gc.onmicrosoft.com\/s\/4BHyrq9JWk2Z7IgR8U5muA2",
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 3,
+                "addressLineEn": "Building 314 (behind Canex Building)",
+                "addressLineFr": "B\u00e2timent 314 (derri\u00e8re le b\u00e2timent Canex)",
+                "addressLine2En": "Military Row",
+                "addressLine2Fr": "Rang Military",
+                "latitude": "49.7065",
+                "longitude": "-124.8853",
+                "cityEn": "Lazo",
+                "cityFr": "Lazo",
+                "province": "BC",
+                "postalCode": "V06 2K0"
+            }
+        },
+        {
+            "id": 4,
+            "nameEn": "Transition Services Borden",
+            "nameFr": "Services de transition Borden",
+            "region": {
+                "id": 9,
+                "nameEn": "Southern Ontario",
+                "nameFr": "le Sud de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office365.com\/owa\/calendar\/TransitionServicesBorden@018gc.onmicrosoft.com\/bookings\/",
+            "bookingFr": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionBorden@018gc.onmicrosoft.com\/bookings\/",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 4,
+                "addressLineEn": "115-73 Coronel Road",
+                "addressLineFr": "Salle 115-73 rue Coronel",
+                "addressLine2En": "Building O-125",
+                "addressLine2Fr": "B\u00e2timent O-125",
+                "latitude": "44.290700",
+                "longitude": "-79.893400",
+                "cityEn": "Borden",
+                "cityFr": "Borden",
+                "province": "ON",
+                "postalCode": "L0M 1C0"
+            }
+        },
+        {
+            "id": 5,
+            "nameEn": "Transition Services Calgary",
+            "nameFr": "Services de transition Calgary",
+            "region": {
+                "id": 2,
+                "nameEn": "Alberta and Northern Canada",
+                "nameFr": "Alberta et Nord du Canada",
+                "provinces": [
+                    "AB",
+                    "NT",
+                    "NU"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office365.com\/owa\/calendar\/TransitionServicesEdmonton@ecn.forces.gc.ca\/bookings\/s\/zxHZSKFFWkuoCM9Sb54MPA2",
+            "bookingFr": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionEdmonton@018gc.onmicrosoft.com\/bookings\/s\/LOrfdRetiEaqBQ2k-Oa8zQ2",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 5,
+                "addressLineEn": "#204 - 5 Richard Way SW",
+                "addressLineFr": "#204 - 5 Richard Way SW",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "51.00549",
+                "longitude": "-114.13013",
+                "cityEn": "Calgary",
+                "cityFr": "Calgary",
+                "province": "AB",
+                "postalCode": "T3E 7M8"
+            }
+        },
+        {
+            "id": 7,
+            "nameEn": "Transition Services Edmonton",
+            "nameFr": "Services de transition Edmonton",
+            "region": {
+                "id": 2,
+                "nameEn": "Alberta and Northern Canada",
+                "nameFr": "Alberta et Nord du Canada",
+                "provinces": [
+                    "AB",
+                    "NT",
+                    "NU"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office365.com\/owa\/calendar\/TransitionServicesEdmonton@ecn.forces.gc.ca\/bookings\/s\/E5yH0yvtaUmcwSC1uW7XxQ2",
+            "bookingFr": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionEdmonton@018gc.onmicrosoft.com\/bookings\/s\/LOrfdRetiEaqBQ2k-Oa8zQ2",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 7,
+                "addressLineEn": "Garrison Edmonton",
+                "addressLineFr": "Garnison Edmonton",
+                "addressLine2En": "Building 162 - Churchill Ave",
+                "addressLine2Fr": "B\u00e2timent 162 - Churchill Ave",
+                "latitude": "53.6746",
+                "longitude": "-113.4915",
+                "cityEn": "Edmonton",
+                "cityFr": "Edmonton",
+                "province": "AB",
+                "postalCode": "T5J 4J5"
+            }
+        },
+        {
+            "id": 8,
+            "nameEn": "Transition Services Esquimalt",
+            "nameFr": "Services de transition Esquimalt",
+            "region": {
+                "id": 6,
+                "nameEn": "Pacific Region",
+                "nameFr": "le Pacifique",
+                "provinces": [
+                    "YT",
+                    "BC"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office.com\/book\/TransitionServicesEsquimalt@ecn.forces.gc.ca\/s\/E5yH0yvtaUmcwSC1uW7XxQ2",
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 8,
+                "addressLineEn": "Transition Centre Esquimalt",
+                "addressLineFr": "Centre de transition Esquimalt",
+                "addressLine2En": "Second Floor - Naden 30",
+                "addressLine2Fr": "2e \u00e9tage - Naden 30",
+                "latitude": "48.435887",
+                "longitude": "-123.420357",
+                "cityEn": "Esquimalt",
+                "cityFr": "Esquimalt",
+                "province": "BC",
+                "postalCode": "V9A 7N2"
+            }
+        },
+        {
+            "id": 9,
+            "nameEn": "Transition Services Gagetown",
+            "nameFr": "Services de transition Gagetown",
+            "region": {
+                "id": 4,
+                "nameEn": "New Brunswick and Prince Edward Island",
+                "nameFr": "le Nouveau-Brunswick et l\u2019\u00cele-du-Prince-\u00c9douard",
+                "provinces": [
+                    "NB",
+                    "PE"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 9,
+                "addressLineEn": "Building A-338",
+                "addressLineFr": "B\u00e2timent A-338",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "45.8373",
+                "longitude": "-66.4370",
+                "cityEn": "Oromocto",
+                "cityFr": "Oromocto",
+                "province": "NB",
+                "postalCode": "E2V 4J5"
+            }
+        },
+        {
+            "id": 10,
+            "nameEn": "Transition Services Halifax",
+            "nameFr": "Services de transition Halifax",
+            "region": {
+                "id": 5,
+                "nameEn": "Nova Scotia and Newfoundland and Labrador",
+                "nameFr": "la Nouvelle-\u00c9cosse et Terre-Neuve-et-Labrador",
+                "provinces": [
+                    "NS",
+                    "NL"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 10,
+                "addressLineEn": "6343 Hawk Terrace",
+                "addressLineFr": "6343 Hawk Terrace",
+                "addressLine2En": "Building WP-114",
+                "addressLine2Fr": "B\u00e2timent WP-114",
+                "latitude": "44.65809",
+                "longitude": "-63.61178",
+                "cityEn": "Halifax",
+                "cityFr": "Halifax",
+                "province": "NS",
+                "postalCode": "B3L 4T4"
+            }
+        },
+        {
+            "id": 11,
+            "nameEn": "Transition Services Greenwood",
+            "nameFr": "Services de transition Greenwood",
+            "region": {
+                "id": 5,
+                "nameEn": "Nova Scotia and Newfoundland and Labrador",
+                "nameFr": "la Nouvelle-\u00c9cosse et Terre-Neuve-et-Labrador",
+                "provinces": [
+                    "NS",
+                    "NL"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 11,
+                "addressLineEn": "146 Pathfinder Dr",
+                "addressLineFr": "146 Pathfinder Dr",
+                "addressLine2En": "Building 169",
+                "addressLine2Fr": "B\u00e2timent 169",
+                "latitude": "44.9783",
+                "longitude": "-64.9215",
+                "cityEn": "Greenwood",
+                "cityFr": "Greenwood",
+                "province": "NS",
+                "postalCode": "B0P 1N0"
+            }
+        },
+        {
+            "id": 13,
+            "nameEn": "Transition Services Kingston",
+            "nameFr": "Services de transition Kingston",
+            "region": {
+                "id": 3,
+                "nameEn": "Eastern Ontario",
+                "nameFr": "l\u2019Est de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 13,
+                "addressLineEn": "496 Discovery Ave",
+                "addressLineFr": "496 avenue Discovery",
+                "addressLine2En": "Unit 1",
+                "addressLine2Fr": "Unit\u00e9 1",
+                "latitude": "44.274100",
+                "longitude": "-76.444010",
+                "cityEn": "Kingston",
+                "cityFr": "Kingston",
+                "province": "ON",
+                "postalCode": "K7K 7E9"
+            }
+        },
+        {
+            "id": 14,
+            "nameEn": "Transition Services London",
+            "nameFr": "Services de transition London",
+            "region": {
+                "id": 9,
+                "nameEn": "Southern Ontario",
+                "nameFr": "le Sud de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 14,
+                "addressLineEn": "701 Oxford St E",
+                "addressLineFr": "701 rue Oxford E",
+                "addressLine2En": "Building 54",
+                "addressLine2Fr": "B\u00e2timent 54",
+                "latitude": "43.001100",
+                "longitude": "-81.231600",
+                "cityEn": "London",
+                "cityFr": "London",
+                "province": "ON",
+                "postalCode": "N5Y 4T7"
+            }
+        },
+        {
+            "id": 15,
+            "nameEn": "Transition Services Meaford",
+            "nameFr": "Services de transition Meaford",
+            "region": {
+                "id": 9,
+                "nameEn": "Southern Ontario",
+                "nameFr": "le Sud de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 15,
+                "addressLineEn": "4 Canadian Division Training Centre",
+                "addressLineFr": "Centre d\u0027instruction de la 4e division du Canada",
+                "addressLine2En": "Building M-165",
+                "addressLine2Fr": "B\u00e2timent M-165",
+                "latitude": "44.608310",
+                "longitude": "-80.656870",
+                "cityEn": "Meaford",
+                "cityFr": "Meaford",
+                "province": "ON",
+                "postalCode": "N4L 0A1"
+            }
+        },
+        {
+            "id": 18,
+            "nameEn": "Transition Services Ottawa",
+            "nameFr": "Services de transition Ottawa",
+            "region": {
+                "id": 1,
+                "nameEn": "National Capital Region",
+                "nameFr": "la R\u00e9gion de la capitale nationale",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 18,
+                "addressLineEn": "1745 Alta Vista Dr. 2nd Floor",
+                "addressLineFr": "1745 Promenade Alta Vista. 2\u00e8me \u00e9tage",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "45.401840",
+                "longitude": "-75.655810",
+                "cityEn": "Ottawa",
+                "cityFr": "Ottawa",
+                "province": "ON",
+                "postalCode": "K1A 0K6"
+            }
+        },
+        {
+            "id": 19,
+            "nameEn": "Transition Services Petawawa",
+            "nameFr": "Services de transition Petawawa",
+            "region": {
+                "id": 3,
+                "nameEn": "Eastern Ontario",
+                "nameFr": "l\u2019Est de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 19,
+                "addressLineEn": "Building N-113",
+                "addressLineFr": "B\u00e2timent N-113",
+                "addressLine2En": "250 Somme Road",
+                "addressLine2Fr": "250, chemin Somme",
+                "latitude": "45.916583",
+                "longitude": "-77.278208",
+                "cityEn": "Petawawa",
+                "cityFr": "Petawawa",
+                "province": "ON",
+                "postalCode": "K8H 2X3"
+            }
+        },
+        {
+            "id": 20,
+            "nameEn": "Transition Services North Bay",
+            "nameFr": "Services de transition North Bay",
+            "region": {
+                "id": 3,
+                "nameEn": "Eastern Ontario",
+                "nameFr": "l\u2019Est de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 20,
+                "addressLineEn": "Building 14",
+                "addressLineFr": "B\u00e2timent 14",
+                "addressLine2En": "Room 104-C",
+                "addressLine2Fr": "Salle 104-C",
+                "latitude": "46.355731",
+                "longitude": "-79.416401",
+                "cityEn": "Hornell Heights",
+                "cityFr": "Hornell Heights",
+                "province": "ON",
+                "postalCode": "P0H 1P0"
+            }
+        },
+        {
+            "id": 21,
+            "nameEn": "Transition Services Shilo",
+            "nameFr": "Services de transition Shilo",
+            "region": {
+                "id": 7,
+                "nameEn": "Prairie Region",
+                "nameFr": "les Prairies",
+                "provinces": [
+                    "MB",
+                    "SK"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 21,
+                "addressLineEn": "Building L106",
+                "addressLineFr": "B\u00e2timent L106",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "49.806010",
+                "longitude": "-99.640890",
+                "cityEn": "Shilo",
+                "cityFr": "Shilo",
+                "province": "MB",
+                "postalCode": "R0K 2A0"
+            }
+        },
+        {
+            "id": 22,
+            "nameEn": "Transition Services St. John\u0027s",
+            "nameFr": "Services de transition St. John\u0027s",
+            "region": {
+                "id": 5,
+                "nameEn": "Nova Scotia and Newfoundland and Labrador",
+                "nameFr": "la Nouvelle-\u00c9cosse et Terre-Neuve-et-Labrador",
+                "provinces": [
+                    "NS",
+                    "NL"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 22,
+                "addressLineEn": "Surgeon Lieutenant Commander W. Anthony Paddon Building",
+                "addressLineFr": "B\u00e2timent Surgeon Lieutenant Commander W. Anthony Paddon",
+                "addressLine2En": "115 The Boulevard",
+                "addressLine2Fr": "115 The Boulevard",
+                "latitude": "47.582652",
+                "longitude": "-52.694853",
+                "cityEn": "St. Johns",
+                "cityFr": "St. Johns",
+                "province": "NL",
+                "postalCode": "A1A 1K3"
+            }
+        },
+        {
+            "id": 23,
+            "nameEn": "Transition Services Gander",
+            "nameFr": "Services de transition Gander",
+            "region": {
+                "id": 5,
+                "nameEn": "Nova Scotia and Newfoundland and Labrador",
+                "nameFr": "la Nouvelle-\u00c9cosse et Terre-Neuve-et-Labrador",
+                "provinces": [
+                    "NS",
+                    "NL"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 23,
+                "addressLineEn": "9 Wing Gander",
+                "addressLineFr": "9e Escadre Gandern",
+                "addressLine2En": "Building 154-Canberra Dr",
+                "addressLine2Fr": "B\u00e2timent 154-promenade Canberra",
+                "latitude": "48.944792",
+                "longitude": "-54.581389",
+                "cityEn": "Gander",
+                "cityFr": "Gander",
+                "province": "NL",
+                "postalCode": "A1V 1X1"
+            }
+        },
+        {
+            "id": 24,
+            "nameEn": "Transition Services Saint-Jean",
+            "nameFr": "Services de transition Saint-Jean",
+            "region": {
+                "id": 8,
+                "nameEn": "Quebec Region",
+                "nameFr": "Qu\u00e9bec",
+                "provinces": [
+                    "QC"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office.com\/owa\/calendar\/CTSTJEAN@018gc.onmicrosoft.com\/bookings\/",
+            "bookingFr": "https:\/\/outlook.office.com\/owa\/calendar\/CTSTJEAN@018gc.onmicrosoft.com\/bookings\/",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 24,
+                "addressLineEn": "1235 Douglas Street",
+                "addressLineFr": "1235 rue Douglas",
+                "addressLine2En": "Suite 230",
+                "addressLine2Fr": "Bureau 230",
+                "latitude": "45.34003",
+                "longitude": "-73.28510",
+                "cityEn": "Saint Jean-sur-Richelieu",
+                "cityFr": "Saint Jean-sur-Richelieu",
+                "province": "QC",
+                "postalCode": "J3A 0A7"
+            }
+        },
+        {
+            "id": 25,
+            "nameEn": "Transition Services Toronto",
+            "nameFr": "Services de transition Toronto",
+            "region": {
+                "id": 9,
+                "nameEn": "Southern Ontario",
+                "nameFr": "le Sud de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 25,
+                "addressLineEn": "LCol George Taylor Dension III Armoury",
+                "addressLineFr": "Lieutenant-colonel George Taylor Man\u00e8ge militaire Denison III",
+                "addressLine2En": "1 Yukon Lane",
+                "addressLine2Fr": "1 Yukon Lane",
+                "latitude": "43.75264",
+                "longitude": "-79.46920",
+                "cityEn": "Toronto",
+                "cityFr": "Toronto",
+                "province": "ON",
+                "postalCode": "M3K 0A1"
+            }
+        },
+        {
+            "id": 26,
+            "nameEn": "Transition Services Trenton",
+            "nameFr": "Services de transition Trenton",
+            "region": {
+                "id": 3,
+                "nameEn": "Eastern Ontario",
+                "nameFr": "l\u2019Est de l\u2019Ontario",
+                "provinces": [
+                    "ON"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 26,
+                "addressLineEn": "Building 649",
+                "addressLineFr": "B\u00e2timent 649",
+                "addressLine2En": "50 Canso Ave",
+                "addressLine2Fr": "50 avenue Canso",
+                "latitude": "44.105600",
+                "longitude": "-77.534470",
+                "cityEn": "Quinte West",
+                "cityFr": "Quinte West",
+                "province": "ON",
+                "postalCode": "K0K 3W0"
+            }
+        },
+        {
+            "id": 27,
+            "nameEn": "Transition Services Valcartier",
+            "nameFr": "Services de transition Valcartier",
+            "region": {
+                "id": 8,
+                "nameEn": "Quebec Region",
+                "nameFr": "Qu\u00e9bec",
+                "provinces": [
+                    "QC"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 27,
+                "addressLineEn": "Building 534",
+                "addressLineFr": "B\u00e2timent 534",
+                "addressLine2En": "Room 119",
+                "addressLine2Fr": "Salle 119",
+                "latitude": "46.89430",
+                "longitude": "-71.48769",
+                "cityEn": "Courcelette",
+                "cityFr": "Courcelette",
+                "province": "QC",
+                "postalCode": "G0A 4Z0"
+            }
+        },
+        {
+            "id": 28,
+            "nameEn": "Transition Services Vancouver",
+            "nameFr": "Services de transition Vancouver",
+            "region": {
+                "id": 6,
+                "nameEn": "Pacific Region",
+                "nameFr": "le Pacifique",
+                "provinces": [
+                    "YT",
+                    "BC"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 28,
+                "addressLineEn": "1755 West 1st Ave",
+                "addressLineFr": "1755 West 1st Ave",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "49.271380",
+                "longitude": "-123.189480",
+                "cityEn": "Vancouver",
+                "cityFr": "Vancouver",
+                "province": "BC",
+                "postalCode": "V6J 0G7"
+            }
+        },
+        {
+            "id": 29,
+            "nameEn": "Transition Services Wainwright",
+            "nameFr": "Services de transition Wainwright",
+            "region": {
+                "id": 2,
+                "nameEn": "Alberta and Northern Canada",
+                "nameFr": "Alberta et Nord du Canada",
+                "provinces": [
+                    "AB",
+                    "NT",
+                    "NU"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office365.com\/owa\/calendar\/TransitionServicesEdmonton@ecn.forces.gc.ca\/bookings\/s\/nXAmZaegDEGUojrAsBbMuA2",
+            "bookingFr": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionEdmonton@018gc.onmicrosoft.com\/bookings\/s\/LOrfdRetiEaqBQ2k-Oa8zQ2",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 29,
+                "addressLineEn": "Building 706-Powderhorn Rd",
+                "addressLineFr": "B\u00e2timent 706-chemin Powderhorn",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "52.833110",
+                "longitude": "-110.850480",
+                "cityEn": "Denwood",
+                "cityFr": "Denwood",
+                "province": "AB",
+                "postalCode": "T0B 1B0"
+            }
+        },
+        {
+            "id": 30,
+            "nameEn": "Transition Services Winnipeg",
+            "nameFr": "Services de transition Winnipeg",
+            "region": {
+                "id": 7,
+                "nameEn": "Prairie Region",
+                "nameFr": "les Prairies",
+                "provinces": [
+                    "MB",
+                    "SK"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 30,
+                "addressLineEn": "Building 139",
+                "addressLineFr": "B\u00e2tement 139",
+                "addressLine2En": "Room 202-700 Wihury Rd",
+                "addressLine2Fr": "Salle 202-700 rue Wihury",
+                "latitude": "49.891960",
+                "longitude": "-97.253340",
+                "cityEn": "Winnipeg",
+                "cityFr": "Winnipeg",
+                "province": "MB",
+                "postalCode": "R3J 3Y5"
+            }
+        },
+        {
+            "id": 31,
+            "nameEn": "Transition Services Moose Jaw",
+            "nameFr": "Services de transition Moose Jaw",
+            "region": {
+                "id": 7,
+                "nameEn": "Prairie Region",
+                "nameFr": "les Prairies",
+                "provinces": [
+                    "MB",
+                    "SK"
+                ]
+            },
+            "bookingEn": null,
+            "bookingFr": null,
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 31,
+                "addressLineEn": "Building 64-Nato Dr",
+                "addressLineFr": "B\u00e2timent 64-promenade NATO",
+                "addressLine2En": null,
+                "addressLine2Fr": null,
+                "latitude": "50.341260",
+                "longitude": "-105.553620",
+                "cityEn": "Moose Jaw",
+                "cityFr": "Moose Jaw",
+                "province": "SK",
+                "postalCode": "S6H 7Z8"
+            }
+        },
+        {
+            "id": 32,
+            "nameEn": "Transition Services Montreal",
+            "nameFr": "Services de transition Montr\u00e9al",
+            "region": {
+                "id": 8,
+                "nameEn": "Quebec Region",
+                "nameFr": "Qu\u00e9bec",
+                "provinces": [
+                    "QC"
+                ]
+            },
+            "bookingEn": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionMontral@018gc.onmicrosoft.com\/bookings\/",
+            "bookingFr": "https:\/\/outlook.office365.com\/owa\/calendar\/ServicesdetransitionMontral@018gc.onmicrosoft.com\/bookings\/",
+            "trainingUrlEn": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_EN\/latestversion",
+            "trainingUrlFr": "https:\/\/dln-rad.sabacloud.com\/Saba\/Web_spf\/CA3P1PRD002\/common\/ledetail\/CAF_TG_HQ_MT101_FR\/latestversion",
+            "address": {
+                "id": 32,
+                "addressLineEn": "6560 Hochelaga",
+                "addressLineFr": "6560 Hochelaga",
+                "addressLine2En": "Bldg 214, L 115-1",
+                "addressLine2Fr": "B\u00e2t 214, L 115-1",
+                "latitude": "45.57693",
+                "longitude": "-73.53141",
+                "cityEn": "Montr\u00e9al",
+                "cityFr": "Montr\u00e9al",
+                "province": "QC",
+                "postalCode": "H1N 1X9"
+            }
+        }
+    ]
+}

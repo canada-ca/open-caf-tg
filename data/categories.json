@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "message": "servicesCategories",
+  "data": [
+    {
+      "id": 1,
+      "nameEn": "Purpose",
+      "nameFr": "Utilit\u00e9",
+      "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+      "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+    },
+    {
+      "id": 2,
+      "nameEn": "Finances",
+      "nameFr": "Finances",
+      "descEn": "Sufficient finances are associated with independence, healthy lifestyle choices, access to health services, quality of housing, family stability, and avoidance of debt.",
+      "descFr": "Des ressources financi\u00e8res suffisantes vont de pair avec une multitude de situations positives : l\u2019ind\u00e9pendance, un mode de vie sain, l\u2019acc\u00e8s aux services de sant\u00e9, un bon logement, la stabilit\u00e9 familiale et l\u2019\u00e9vitement de l\u2019endettement."
+    },
+    {
+      "id": 3,
+      "nameEn": "Health",
+      "nameFr": "Sant\u00e9",
+      "descEn": "Health can be viewed as the physical, social, mental, and spiritual ability of an individual to function well.",
+      "descFr": "On peut d\u00e9finir la sant\u00e9 comme \u00e9tant la capacit\u00e9 physique, sociale, mentale et spirituelle d\u2019une personne \u00e0 bien fonctionner."
+    },
+    {
+      "id": 4,
+      "nameEn": "Life Skills",
+      "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+      "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+      "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+    },
+    {
+      "id": 5,
+      "nameEn": "Social Integration",
+      "nameFr": "Int\u00e9gration sociale",
+      "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+      "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+    },
+    {
+      "id": 6,
+      "nameEn": "Housing and Physical Environment",
+      "nameFr": "Logement et environnement physique",
+      "descEn": "Finding a nice home to live in is only part of the story.  It\u0027s important to ensure that the physical environment you inhabit will meet your emotional needs as well.",
+      "descFr": "Trouver un bon logement o\u00f9 vivre n\u2019est qu\u2019un \u00e9l\u00e9ment de l\u2019histoire. Il importe de s\u2019assurer que votre environnement physique r\u00e9pond aussi \u00e0 vos besoins \u00e9motionnels."
+    },
+    {
+      "id": 7,
+      "nameEn": "Culture and Social Environment",
+      "nameFr": "Environnement culturel et social",
+      "descEn": "Focuses on how transitioning members and Veterans are perceived and accepted by civilian society, how they are understood, valued and supported by the community.",
+      "descFr": "Est ax\u00e9 sur la mani\u00e8re dont les militaires en transition et les v\u00e9t\u00e9rans sont per\u00e7us et accept\u00e9s par la soci\u00e9t\u00e9 civile, comment ils sont compris, valoris\u00e9s et soutenus par la communaut\u00e9."
+    }
+  ]
+}

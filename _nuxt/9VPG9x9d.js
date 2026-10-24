@@ -1,0 +1,1 @@
+import{_ as t,k as n,c as o,a0 as a}from"./D-A9VWrz.js";const r={},s={property:"mainContentOfPage",resource:"#wb-main",typeof:"WebPageElement"};function c(e,_){return n(),o("main",s,[a(e.$slots,"default")])}const l=t(r,[["render",c]]);export{l as default};

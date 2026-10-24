@@ -1,0 +1,850 @@
+{
+    "status": "success",
+    "message": "NRD Organizations",
+    "data": {
+        "filteredOrgs": 342,
+        "page": 1,
+        "numToShow": 9,
+        "orgs": [
+            {
+                "id": 99,
+                "nameEn": "Canadian Forces Morale and Welfare Services (CFMWS)",
+                "nameFr": "Les Services de bien-\u00eatre et moral des Forces canadiennes (SBMFC)",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Finances",
+                        "nameFr": "Finances",
+                        "descEn": "Sufficient finances are associated with independence, healthy lifestyle choices, access to health services, quality of housing, family stability, and avoidance of debt.",
+                        "descFr": "Des ressources financi\u00e8res suffisantes vont de pair avec une multitude de situations positives : l\u2019ind\u00e9pendance, un mode de vie sain, l\u2019acc\u00e8s aux services de sant\u00e9, un bon logement, la stabilit\u00e9 familiale et l\u2019\u00e9vitement de l\u2019endettement."
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Health",
+                        "nameFr": "Sant\u00e9",
+                        "descEn": "Health can be viewed as the physical, social, mental, and spiritual ability of an individual to function well.",
+                        "descFr": "On peut d\u00e9finir la sant\u00e9 comme \u00e9tant la capacit\u00e9 physique, sociale, mentale et spirituelle d\u2019une personne \u00e0 bien fonctionner."
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Life Skills",
+                        "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+                        "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+                        "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Social Integration",
+                        "nameFr": "Int\u00e9gration sociale",
+                        "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+                        "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Housing and Physical Environment",
+                        "nameFr": "Logement et environnement physique",
+                        "descEn": "Finding a nice home to live in is only part of the story.  It\u0027s important to ensure that the physical environment you inhabit will meet your emotional needs as well.",
+                        "descFr": "Trouver un bon logement o\u00f9 vivre n\u2019est qu\u2019un \u00e9l\u00e9ment de l\u2019histoire. Il importe de s\u2019assurer que votre environnement physique r\u00e9pond aussi \u00e0 vos besoins \u00e9motionnels."
+                    },
+                    {
+                        "id": 7,
+                        "nameEn": "Culture and Social Environment",
+                        "nameFr": "Environnement culturel et social",
+                        "descEn": "Focuses on how transitioning members and Veterans are perceived and accepted by civilian society, how they are understood, valued and supported by the community.",
+                        "descFr": "Est ax\u00e9 sur la mani\u00e8re dont les militaires en transition et les v\u00e9t\u00e9rans sont per\u00e7us et accept\u00e9s par la soci\u00e9t\u00e9 civile, comment ils sont compris, valoris\u00e9s et soutenus par la communaut\u00e9."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Primary Reserve",
+                        "nameFr": "Premi\u00e8re r\u00e9serve"
+                    }
+                ],
+                "briefDescEn": "Supporting the CAF community through fitness, recreation and leisure activities, family support, retail and personal financial services.",
+                "detailedDescEn": "CFMWS is dedicated to Canadian Armed Forces members, Veterans and their families through the provision of fitness, recreation and leisure activities, family support, retail and personal financial services. Our programs and services contribute to operational readiness by making our members stronger mentally, socially, physically and financially at the individual and community level.",
+                "briefDescFr": "Appui \u00e0 la communaut\u00e9 des FAC : conditionnement physique, loisirs, soutien aux familles, services financiers et vente au d\u00e9tail.",
+                "detailedDescFr": "Les SBMFC, d\u00e9vou\u00e9s aux membres et aux v\u00e9t\u00e9rans des FAC et \u00e0 leurs familles, offrent des programmes de conditionnement physique et de loisirs, du soutien aux familles, ainsi que des services financiers personnels et des services de vente au d\u00e9tail. Ces programmes et services contribuent \u00e0 l\u2019\u00e9tat de pr\u00e9paration op\u00e9rationnelle en rendant les membres des FAC plus forts, individuellement et collectivement, sur les plans mental, social, physique et financier.",
+                "internationalCoverage": true,
+                "provinces": [
+                    "AB",
+                    "BC",
+                    "MB",
+                    "NB",
+                    "NL",
+                    "NT",
+                    "NS",
+                    "ON",
+                    "PE",
+                    "QC",
+                    "SK",
+                    "YT"
+                ],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 109,
+                        "name": "Website",
+                        "url": "https:\/\/www.cfmws.ca"
+                    }
+                ],
+                "readiness": 2,
+                "corePartner": true,
+                "buyVeterans": false,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 48,
+                "nameEn": "The Royal Canadian Legion National Headquarters",
+                "nameFr": "The Royal Canadian Legion National Headquarters",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Finances",
+                        "nameFr": "Finances",
+                        "descEn": "Sufficient finances are associated with independence, healthy lifestyle choices, access to health services, quality of housing, family stability, and avoidance of debt.",
+                        "descFr": "Des ressources financi\u00e8res suffisantes vont de pair avec une multitude de situations positives : l\u2019ind\u00e9pendance, un mode de vie sain, l\u2019acc\u00e8s aux services de sant\u00e9, un bon logement, la stabilit\u00e9 familiale et l\u2019\u00e9vitement de l\u2019endettement."
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Health",
+                        "nameFr": "Sant\u00e9",
+                        "descEn": "Health can be viewed as the physical, social, mental, and spiritual ability of an individual to function well.",
+                        "descFr": "On peut d\u00e9finir la sant\u00e9 comme \u00e9tant la capacit\u00e9 physique, sociale, mentale et spirituelle d\u2019une personne \u00e0 bien fonctionner."
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Life Skills",
+                        "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+                        "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+                        "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Social Integration",
+                        "nameFr": "Int\u00e9gration sociale",
+                        "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+                        "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Housing and Physical Environment",
+                        "nameFr": "Logement et environnement physique",
+                        "descEn": "Finding a nice home to live in is only part of the story.  It\u0027s important to ensure that the physical environment you inhabit will meet your emotional needs as well.",
+                        "descFr": "Trouver un bon logement o\u00f9 vivre n\u2019est qu\u2019un \u00e9l\u00e9ment de l\u2019histoire. Il importe de s\u2019assurer que votre environnement physique r\u00e9pond aussi \u00e0 vos besoins \u00e9motionnels."
+                    },
+                    {
+                        "id": 7,
+                        "nameEn": "Culture and Social Environment",
+                        "nameFr": "Environnement culturel et social",
+                        "descEn": "Focuses on how transitioning members and Veterans are perceived and accepted by civilian society, how they are understood, valued and supported by the community.",
+                        "descFr": "Est ax\u00e9 sur la mani\u00e8re dont les militaires en transition et les v\u00e9t\u00e9rans sont per\u00e7us et accept\u00e9s par la soci\u00e9t\u00e9 civile, comment ils sont compris, valoris\u00e9s et soutenus par la communaut\u00e9."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Primary Reserve",
+                        "nameFr": "Premi\u00e8re r\u00e9serve"
+                    }
+                ],
+                "briefDescEn": "",
+                "detailedDescEn": "",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": false,
+                "provinces": [],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 41,
+                        "name": "Veterans (Members) Services",
+                        "url": "https:\/\/legion.ca\/support-for-veterans\/assistance-with-vac"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Advocacy",
+                        "url": "https:\/\/legion.ca\/advocating-for-veterans\/advocating-for-change"
+                    },
+                    {
+                        "id": 43,
+                        "name": "Adjusting to Civilian Life",
+                        "url": "https:\/\/legion.ca\/support-for-veterans\/adjusting-to-civilian-life"
+                    },
+                    {
+                        "id": 44,
+                        "name": "Contact a Service Officer",
+                        "url": "https:\/\/legion.ca\/support-for-veterans\/contact-a-service-officer"
+                    },
+                    {
+                        "id": 45,
+                        "name": "Membership\/Donations",
+                        "url": "https:\/\/legion.ca\/home"
+                    }
+                ],
+                "readiness": 2,
+                "corePartner": true,
+                "buyVeterans": false,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 8,
+                "nameEn": "Veterans Affairs Canada",
+                "nameFr": "Anciens Combattants Canada",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Finances",
+                        "nameFr": "Finances",
+                        "descEn": "Sufficient finances are associated with independence, healthy lifestyle choices, access to health services, quality of housing, family stability, and avoidance of debt.",
+                        "descFr": "Des ressources financi\u00e8res suffisantes vont de pair avec une multitude de situations positives : l\u2019ind\u00e9pendance, un mode de vie sain, l\u2019acc\u00e8s aux services de sant\u00e9, un bon logement, la stabilit\u00e9 familiale et l\u2019\u00e9vitement de l\u2019endettement."
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Health",
+                        "nameFr": "Sant\u00e9",
+                        "descEn": "Health can be viewed as the physical, social, mental, and spiritual ability of an individual to function well.",
+                        "descFr": "On peut d\u00e9finir la sant\u00e9 comme \u00e9tant la capacit\u00e9 physique, sociale, mentale et spirituelle d\u2019une personne \u00e0 bien fonctionner."
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Life Skills",
+                        "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+                        "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+                        "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Social Integration",
+                        "nameFr": "Int\u00e9gration sociale",
+                        "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+                        "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Housing and Physical Environment",
+                        "nameFr": "Logement et environnement physique",
+                        "descEn": "Finding a nice home to live in is only part of the story.  It\u0027s important to ensure that the physical environment you inhabit will meet your emotional needs as well.",
+                        "descFr": "Trouver un bon logement o\u00f9 vivre n\u2019est qu\u2019un \u00e9l\u00e9ment de l\u2019histoire. Il importe de s\u2019assurer que votre environnement physique r\u00e9pond aussi \u00e0 vos besoins \u00e9motionnels."
+                    },
+                    {
+                        "id": 7,
+                        "nameEn": "Culture and Social Environment",
+                        "nameFr": "Environnement culturel et social",
+                        "descEn": "Focuses on how transitioning members and Veterans are perceived and accepted by civilian society, how they are understood, valued and supported by the community.",
+                        "descFr": "Est ax\u00e9 sur la mani\u00e8re dont les militaires en transition et les v\u00e9t\u00e9rans sont per\u00e7us et accept\u00e9s par la soci\u00e9t\u00e9 civile, comment ils sont compris, valoris\u00e9s et soutenus par la communaut\u00e9."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    }
+                ],
+                "briefDescEn": "Supporting veterans with pensions, benefits, and services.",
+                "detailedDescEn": "Veterans Affairs Canada provides pensions, benefits, and services to war veterans, retired and still-serving members of the Canadian Armed Forces and Royal Canadian Mounted Police, their families, as well as some civilians.",
+                "briefDescFr": "Soutien aux anciens combattants avec des pensions, des avantages et des services.",
+                "detailedDescFr": "Anciens Combattants Canada fournit des pensions, des avantages et des services aux anciens combattants de guerre, aux membres retrait\u00e9s et encore en service des Forces arm\u00e9es canadiennes et de la Gendarmerie royale du Canada, \u00e0 leurs familles, ainsi qu\u2019\u00e0 certains civils.",
+                "internationalCoverage": false,
+                "provinces": [
+                    "AB",
+                    "BC",
+                    "MB",
+                    "NB",
+                    "NL",
+                    "NS",
+                    "ON",
+                    "PE",
+                    "QC",
+                    "SK",
+                    "NT",
+                    "NU",
+                    "YT"
+                ],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 145,
+                        "name": "Site",
+                        "url": "https:\/\/www.veterans.gc.ca"
+                    }
+                ],
+                "readiness": null,
+                "corePartner": true,
+                "buyVeterans": false,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 333,
+                "nameEn": "1000 Islands Addiction Treatment Centre",
+                "nameFr": "1000 Islands Addiction Treatment Centre",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Life Skills",
+                        "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+                        "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+                        "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Social Integration",
+                        "nameFr": "Int\u00e9gration sociale",
+                        "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+                        "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+                    },
+                    {
+                        "id": 7,
+                        "nameEn": "Culture and Social Environment",
+                        "nameFr": "Environnement culturel et social",
+                        "descEn": "Focuses on how transitioning members and Veterans are perceived and accepted by civilian society, how they are understood, valued and supported by the community.",
+                        "descFr": "Est ax\u00e9 sur la mani\u00e8re dont les militaires en transition et les v\u00e9t\u00e9rans sont per\u00e7us et accept\u00e9s par la soci\u00e9t\u00e9 civile, comment ils sont compris, valoris\u00e9s et soutenus par la communaut\u00e9."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Primary Reserve",
+                        "nameFr": "Premi\u00e8re r\u00e9serve"
+                    }
+                ],
+                "briefDescEn": "1000 Islands Addiction Treatment Centre delivers structured inpatient addiction treatment grounded in evidence\u2011based care.",
+                "detailedDescEn": "1000 Islands takes a person\u2011centred approach to treatment, placing each client\u2019s strengths, needs, goals, and preferences at the core of care. Treatment emphasizes abstinence, recovery capital, and integration of community supports into discharge planning. Family members may join a six\u2011week virtual Family Support Program, and clients are encouraged to participate in six months of tailored virtual aftercare. Treatment is trauma\u2011informed and grounded in CBT, DBT, and Motivational Interviewing.",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": false,
+                "provinces": [
+                    "AB",
+                    "BC",
+                    "MB",
+                    "NB",
+                    "NL",
+                    "NT",
+                    "NS",
+                    "NU",
+                    "ON",
+                    "PE",
+                    "QC",
+                    "SK",
+                    "YT"
+                ],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 425,
+                        "name": "1000 Islands Addiction Treatment Centre",
+                        "url": "https:\/\/canatc.ca\/1000-islands-accreditation\/"
+                    },
+                    {
+                        "id": 426,
+                        "name": "Canadian Addiction Treatment Centres (CATC)",
+                        "url": "https:\/\/canatc.ca\/"
+                    }
+                ],
+                "readiness": 1,
+                "corePartner": false,
+                "buyVeterans": false,
+                "underrepresentedGroups": [
+                    {
+                        "id": 1,
+                        "nameEn": "Indigenous Peoples",
+                        "nameFr": "Peuples autochtones"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Women",
+                        "nameFr": "Femmes"
+                    }
+                ]
+            },
+            {
+                "id": 234,
+                "nameEn": "123 Cyber Inc.",
+                "nameFr": "123 Cyber Inc.",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Finances",
+                        "nameFr": "Finances",
+                        "descEn": "Sufficient finances are associated with independence, healthy lifestyle choices, access to health services, quality of housing, family stability, and avoidance of debt.",
+                        "descFr": "Des ressources financi\u00e8res suffisantes vont de pair avec une multitude de situations positives : l\u2019ind\u00e9pendance, un mode de vie sain, l\u2019acc\u00e8s aux services de sant\u00e9, un bon logement, la stabilit\u00e9 familiale et l\u2019\u00e9vitement de l\u2019endettement."
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Social Integration",
+                        "nameFr": "Int\u00e9gration sociale",
+                        "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+                        "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Primary Reserve",
+                        "nameFr": "Premi\u00e8re r\u00e9serve"
+                    }
+                ],
+                "briefDescEn": "We are a network of veteran owned, veteran\/reserve and family friendly Managed Service Providers in the IT \u0026 Cybersecurity compliance across Canada.",
+                "detailedDescEn": "123 Cyber exists to make our customers more competent in managing cyber risk. We take the heaviest load of supervision for governance, risk assessment and compliance off the plate for senior leaders who have zero bandwidth or knowledge in cyber security.\r\nAnd we do this by employing veterans and promoting veteran owned businesses. We do not sell software or compete with Managed Service Providers. We work with them, to help grow their cyber businesses and create great career opportunities.",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": true,
+                "provinces": [
+                    "AB",
+                    "BC",
+                    "MB",
+                    "NB",
+                    "NL",
+                    "NT",
+                    "NS",
+                    "NU",
+                    "ON",
+                    "PE",
+                    "QC",
+                    "SK",
+                    "YT"
+                ],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 294,
+                        "name": "123 Cyber",
+                        "url": "https:\/\/www.123cyber.ca\/"
+                    }
+                ],
+                "readiness": 2,
+                "corePartner": null,
+                "buyVeterans": false,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 207,
+                "nameEn": "3D Prints Canada inc.",
+                "nameFr": "3D Prints Canada inc.",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Life Skills",
+                        "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+                        "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+                        "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Social Integration",
+                        "nameFr": "Int\u00e9gration sociale",
+                        "descEn": "Building new civilian social networks is important to find all the resources and supports available to you as you adjust to civilian life, and to reshape your military identity into a civilian one. ",
+                        "descFr": "L\u2019\u00e9tablissement de r\u00e9seaux sociaux civils est essentiel pour trouver les ressources et les mesures de soutien \u00e0 votre disposition pendant que vous vous ajustez \u00e0 la vie civile et que vous refa\u00e7onnez votre identit\u00e9 militaire en identit\u00e9 civile."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Primary Reserve",
+                        "nameFr": "Premi\u00e8re r\u00e9serve"
+                    }
+                ],
+                "briefDescEn": "3D Printing and prototyping services, 3D model design, Quality 3D Printing filament supplier and Computer supports services.",
+                "detailedDescEn": "3D Printing \u0026 Computer support, we offer Top of the line 3D printing \u0026 Design for individual and business as well as advanced computer support. If you have seen stuff on www.thingiverse.com, can\u0027t find pieces to repair something or have a prototype project you want to hold in your hands, we are your A team!",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": true,
+                "provinces": [
+                    "AB",
+                    "BC",
+                    "MB",
+                    "NB",
+                    "NL",
+                    "NT",
+                    "NS",
+                    "NU",
+                    "ON",
+                    "PE",
+                    "QC",
+                    "SK",
+                    "YT"
+                ],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 258,
+                        "name": "3D Prints Canada",
+                        "url": "https:\/\/www.3dprintscanada.com"
+                    }
+                ],
+                "readiness": 0,
+                "corePartner": false,
+                "buyVeterans": true,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 323,
+                "nameEn": "613 Fitness",
+                "nameFr": "613 Fitness",
+                "domains": [
+                    {
+                        "id": 1,
+                        "nameEn": "Purpose",
+                        "nameFr": "Utilit\u00e9",
+                        "descEn": "A sense of purpose in life is important to well-being. Transitioning members can feel lost or disoriented because they now need to replace the purpose they had in the military with something new. ",
+                        "descFr": "Le sentiment d\u2019avoir un but pr\u00e9cis dans la vie est important pour le bien-\u00eatre. Les militaires en cours de transition vers la vie civile peuvent se sentir perdus ou d\u00e9sorient\u00e9s, car ils doivent maintenant remplacer le but qu\u2019ils avaient dans les Forces par quelque chose de nouveau."
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Health",
+                        "nameFr": "Sant\u00e9",
+                        "descEn": "Health can be viewed as the physical, social, mental, and spiritual ability of an individual to function well.",
+                        "descFr": "On peut d\u00e9finir la sant\u00e9 comme \u00e9tant la capacit\u00e9 physique, sociale, mentale et spirituelle d\u2019une personne \u00e0 bien fonctionner."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    },
+                    {
+                        "id": 6,
+                        "nameEn": "Primary Reserve",
+                        "nameFr": "Premi\u00e8re r\u00e9serve"
+                    }
+                ],
+                "briefDescEn": "As a veteran, I specialize in providing kinesiology services to veterans, focusing on understanding the multifaceted nature of military injuries.",
+                "detailedDescEn": "At 613 Fitness, we are proud to offer group classes, personal training, kids\/teens classes, team conditioning, and clinical kinesiology services, emphasizing a holistic approach to health that encompasses physical, social, and emotional well-being.\r\n\r\nClinical kinesiology focuses on the science of human movement, applying evidence-based research to improve function, health, and wellness. Our services aim to treat injury, with a specific ability to help veterans, because I am a 38-year veteran.",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": false,
+                "provinces": [],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 411,
+                        "name": "613 Fitness",
+                        "url": "https:\/\/www.613fitness.com\/"
+                    },
+                    {
+                        "id": 412,
+                        "name": "Kinesiology for Veterans at 613 Fitness",
+                        "url": "https:\/\/www.613fitness.com\/kinesiology"
+                    }
+                ],
+                "readiness": 2,
+                "corePartner": false,
+                "buyVeterans": true,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 238,
+                "nameEn": "A Kochanoff Financial Services",
+                "nameFr": "A Kochanoff Financial Services",
+                "domains": [
+                    {
+                        "id": 2,
+                        "nameEn": "Finances",
+                        "nameFr": "Finances",
+                        "descEn": "Sufficient finances are associated with independence, healthy lifestyle choices, access to health services, quality of housing, family stability, and avoidance of debt.",
+                        "descFr": "Des ressources financi\u00e8res suffisantes vont de pair avec une multitude de situations positives : l\u2019ind\u00e9pendance, un mode de vie sain, l\u2019acc\u00e8s aux services de sant\u00e9, un bon logement, la stabilit\u00e9 familiale et l\u2019\u00e9vitement de l\u2019endettement."
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Life Skills",
+                        "nameFr": "Aptitudes \u00e0 la vie quotidienne",
+                        "descEn": "The life skills domain refers to the knowledge, insights and experiences that prepare military members to adapt to civilian life.",
+                        "descFr": "Le domaine des aptitudes \u00e0 la vie quotidienne se rapporte aux comp\u00e9tences, aux connaissances et aux exp\u00e9riences personnelles qui pr\u00e9parent les militaires \u00e0 s\u2019adapter \u00e0 la vie civile."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    }
+                ],
+                "briefDescEn": "Sole proprietor providing full financial planning services to the CAF community working alongside Active and Released members.",
+                "detailedDescEn": "Comprehensive financial planning services to assist CAF members in better understanding their CAF pension, their available insurance products and how to transition from military to civilian life. Subject matter expert with how to successfully transition through 3B Medical releases.",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": false,
+                "provinces": [
+                    "NS",
+                    "ON",
+                    "PE",
+                    "NB",
+                    "NL"
+                ],
+                "cities": [],
+                "urls": [
+                    {
+                        "id": 298,
+                        "name": "https:\/\/akfinancials.ca",
+                        "url": "https:\/\/akfinancials.ca"
+                    }
+                ],
+                "readiness": 1,
+                "corePartner": false,
+                "buyVeterans": false,
+                "underrepresentedGroups": []
+            },
+            {
+                "id": 383,
+                "nameEn": "A Rosey Footcare Treatment",
+                "nameFr": "A Rosey Footcare Treatment",
+                "domains": [
+                    {
+                        "id": 3,
+                        "nameEn": "Health",
+                        "nameFr": "Sant\u00e9",
+                        "descEn": "Health can be viewed as the physical, social, mental, and spiritual ability of an individual to function well.",
+                        "descFr": "On peut d\u00e9finir la sant\u00e9 comme \u00e9tant la capacit\u00e9 physique, sociale, mentale et spirituelle d\u2019une personne \u00e0 bien fonctionner."
+                    }
+                ],
+                "population": [
+                    {
+                        "id": 1,
+                        "nameEn": "Families",
+                        "nameFr": "Familles"
+                    },
+                    {
+                        "id": 2,
+                        "nameEn": "Regular Force",
+                        "nameFr": "Force r\u00e9guli\u00e8re"
+                    },
+                    {
+                        "id": 3,
+                        "nameEn": "Veteran",
+                        "nameFr": "Ancien combattant"
+                    },
+                    {
+                        "id": 4,
+                        "nameEn": "Transitioning Members",
+                        "nameFr": "Les membres en transition"
+                    },
+                    {
+                        "id": 5,
+                        "nameEn": "Spouses and partners",
+                        "nameFr": "Conjoint(e)s et partenaires"
+                    }
+                ],
+                "briefDescEn": "Locally owned and operated medical Footcare services provided by a LPN.",
+                "detailedDescEn": "I am an independent footcare service provider. Formally employed by VON Canada as their primary footcare provider. I am an LPN in good standing. I am registered with Medavie Blue Cross and currently provide services to active and retired military members.",
+                "briefDescFr": "",
+                "detailedDescFr": "",
+                "internationalCoverage": false,
+                "provinces": [
+                    "NB"
+                ],
+                "cities": [],
+                "urls": [],
+                "readiness": 1,
+                "corePartner": false,
+                "buyVeterans": false,
+                "underrepresentedGroups": []
+            }
+        ],
+        "filters": [],
+        "totalOrgs": 342
+    }
+}
